@@ -16,12 +16,16 @@ public class PaintHouse2 {
         for(int i=1;i<len+2;i++){
             for(int k=0;k<m;k++) {
                 dp[i][k]=costs[i-1][m];
+                int minv=Integer.MAX_VALUE;
                 for(int j=0;j<m;j++){
-
+                    if(j==k)
+                        continue;
+                    minv=Math.min(minv,dp[i-1][j]);
                 }
+                dp[i][k]+=minv;
             }
         }
-        return
+        return Math.min(dp[len+1][0],dp[len+1][1]);
     }
 
 }

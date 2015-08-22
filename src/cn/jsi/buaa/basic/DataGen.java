@@ -57,8 +57,8 @@ public class DataGen {
 	public static void main(String[] args) {
 		DataGen d = new DataGen();
 		TreeNode t = null;
-		// t=d.gentTree("3,4,5,6,7,#,#,1,2");
-		t = d.gentTree("1,2,3,#,#,4,#,#,5");
+		 t=d.gentTree("3,4,5,6,7,#,#,1,2");
+//		t = d.gentTree("1,2,3,#,#,4,#,#,5");
 		TreeNode t1 = new TreeNode(1);
 		TreeNode t2 = new TreeNode(2);
 		TreeNode t3 = new TreeNode(3);
@@ -78,6 +78,7 @@ public class DataGen {
 		t4.left = t7;
 		t4.right = t8;
 		d.showTree(t, 8);
+//		d.showTree(t1,8);
 	}
 
 	public static void showTree2(TreeNode t) {
