@@ -157,4 +157,11 @@ public class DataGen {
 		System.out.println();
 
 	}
+
+	public static void showArray(int[] y) {
+        String s="";
+		for(int i:y)
+            s+=i+" ";
+        System.out.println(s);
+	}
 }
