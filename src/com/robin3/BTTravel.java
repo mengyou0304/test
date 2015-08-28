@@ -1,11 +1,10 @@
 package com.robin3;
 
+import cn.jsi.buaa.basic.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-
-import cn.jsi.buaa.basic.DataGen;
-import cn.jsi.buaa.basic.TreeNode;
 
 public class BTTravel {
 	List<List<Integer>> reslist=new ArrayList<List<Integer>>();
@@ -57,7 +56,6 @@ public class BTTravel {
     }
     public static void main(String[] args) {
     	BTTravel bt=new BTTravel();
-    	bt.bfs1Q(DataGen.gentTree("1,2,3,4"));
 	}
 
 }
