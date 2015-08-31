@@ -1,1 +1,54 @@
-84,250,0,0,1,0,0,-70,0,-70,1,-1,21,10,42,90,-42,-230
+hadoop fs -du -s  /BILog/src/20150820/*/7120/58603 |awk '{sum+=$1;print sum}' >20.out
+hadoop fs -du -s  /BILog/src/20150821/*/7120/58603 |awk '{sum+=$1;print sum}' >21.out
+hadoop fs -du -s  /BILog/src/20150822/*/7120/58603 |awk '{sum+=$1;print sum}' >22.out
+hadoop fs -du -s  /BILog/src/20150823/*/7120/58603 |awk '{sum+=$1;print sum}' >23.out
+
+hadoop fs -du -s  /BILog/src/20150824/*/7120/58603 |awk '{sum+=$1;print sum}' >24.out
+hadoop fs -du -s  /BILog/src/20150825/*/7120/58603 |awk '{sum+=$1;print sum}' >25.out
+hadoop fs -du -s  /BILog/src/20150826/*/7120/58603 |awk '{sum+=$1;print sum}' >26.out
+hadoop fs -du -s  /BILog/src/20150827/*/7120/58603 |awk '{sum+=$1;print sum}' >27.out
+hadoop fs -du -s  /BILog/src/20150828/*/7120/58603 |awk '{sum+=$1;print sum}' >28.out
+hadoop fs -du -s  /BILog/src/20150829/*/7120/58603 |awk '{sum+=$1;print sum}' >29.out
+hadoop fs -du -s  /BILog/src/20150830/*/7120/58603 |awk '{sum+=$1;print sum}' >30.out
+
+
+echo 20 >>sum.out
+tail -n 1 20.out >>sum.out
+echo 21 >>sum.out
+tail -n 1 21.out >>sum.out
+echo 22 >>sum.out
+tail -n 1 22.out >>sum.out
+echo 23 >>sum.out
+tail -n 1 23.out >>sum.out
+echo 24 >>sum.out
+tail -n 1 24.out >>sum.out
+echo 25 >>sum.out
+tail -n 1 25.out >>sum.out
+echo 26 >>sum.out
+tail -n 1 26.out >>sum.out
+echo 27 >>sum.out
+tail -n 1 27.out >>sum.out
+echo 28 >>sum.out
+tail -n 1 28.out >>sum.out
+echo 29 >>sum.out
+tail -n 1 29.out >>sum.out
+echo 30 >>sum.out
+tail -n 1 30.out >>sum.out
+
+日期      数据大小
+20      2978159580
+21      3090758456
+22      2359034141
+23      1212032301
+24      1181468747
+25      1099334775
+26      964331794
+27      3613940556
+28      11174271103
+29      3790931801
+30      3434853113
+
+这是大数据这几天收集的该频道的数据大小，左侧是日期，右侧是日志数据大小
+
+可以看到23,24，25，26 几天的日志数量比较小，27日恢复正常，28日高出日均量较多（在回复数据）。29，30 恢复正常水平
+应该是现在功能正常了
