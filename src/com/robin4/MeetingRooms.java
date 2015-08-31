@@ -12,13 +12,11 @@ public class MeetingRooms {
             return true;
         qsort(ins,0,ins.length-1);
         int lastv=Integer.MIN_VALUE;
-        //Method1: attending the meeting means: every minute should not be missed
         for(int i=0;i<ins.length;i++){
             if(ins[i].start<lastv)
                 return false;
+            lastv=ins[i].end;
         }
-        //Method2: attending the meeting for 1 minute also means attend
-        Interval noOverLaping=new Interval(Integer.MIN_VALUE,Integer.MIN_VALUE);
         return true;
     }
 
@@ -48,6 +46,11 @@ public class MeetingRooms {
 
     public static void main(String[] args) {
         MeetingRooms m=new MeetingRooms();
-        m.canAttendMeetings(new Interval[30]);
+        int[] vs=new int[]{0,1,2,3,4,5,9,7,8,9};
+        Interval[] ins=new Interval[vs.length/2];
+        for(int i=0;i<ins.length;i++){
+            ins[i]=new Interval(vs[i*2],vs[i*2+1]);
+        }
+        System.out.println(m.canAttendMeetings(ins));
     }
 }
