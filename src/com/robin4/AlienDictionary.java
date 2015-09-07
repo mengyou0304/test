@@ -109,6 +109,9 @@ public class AlienDictionary {
                 "er",
                 "ett",
                 "rftt"};
+        ss=new String[] {
+                "wrt","wrf","er","ett","rftt"
+        };
         AlienDictionary ad = new AlienDictionary();
         String res = ad.alienOrder(ss);
 //        System.out.println("res="+res);
