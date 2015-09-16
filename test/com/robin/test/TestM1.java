@@ -1,25 +1,18 @@
 package com.robin.test;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.LinkedList;
+import com.robin3.utility.DataGen2;
 
 public class TestM1 {
-	public static void main(String[] args) {
-		LinkedList<Integer> list=new LinkedList<Integer>();
-		for(int i=0;i<10;i++){
-			list.add(i);
-		}
-		System.out.println(list.get(2));
-		list.remove(2);
-		System.out.println(list.get(2));
-		list.remove(2);
-		System.out.println(list.get(2));
-		list.remove(2);
-		
+    public static void main(String[] args) {
+        int i = 129;
+        DataGen2.showBit(~i);
+        DataGen2.showBit(i);
+        DataGen2.showBit(-i);
+        DataGen2.showBit(i & (-i));
+        System.out.println();
 
-		
-	}
-	
+
+    }
+
 
 }

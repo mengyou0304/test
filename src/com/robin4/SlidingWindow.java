@@ -14,7 +14,7 @@ public class SlidingWindow {
     Deque<Integer> deqlife=new LinkedList<Integer>();
 
     public int[] maxSlidingWindow(int[] nums, int k) {
-        if(nums.length<k)
+        if(nums.length<k||k==0)
             return new int[]{};
 
         int[] res=new int[nums.length+k];
@@ -44,6 +44,8 @@ public class SlidingWindow {
         }
         int[] nres=new int[nums.length-k+1];
         int nindex=0;
+        System.out.println("k="+k);
+        System.out.println("res="+res.length);
         for(int i=k-1;i<res.length-(k);i++){
             nres[nindex++]=res[i];
         }
@@ -52,7 +54,9 @@ public class SlidingWindow {
 
     public static void main(String[] args) {
         SlidingWindow sw=new SlidingWindow();
-        int[] res=sw.maxSlidingWindow(new int[]{9,11},2);
+//        int[] res=sw.maxSlidingWindow(new int[]{9,11},2);
+       int[] res=sw.maxSlidingWindow(new int[]{},0);
+
         DataGen.showArray(res);
     }
 }

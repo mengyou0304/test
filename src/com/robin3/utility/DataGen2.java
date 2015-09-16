@@ -1,8 +1,8 @@
 package com.robin3.utility;
 
-import java.util.List;
-
 import cn.jsi.buaa.basic.TreeNode;
+
+import java.util.List;
 
 public class DataGen2 {
 	public TreeNode genTree(String s){
@@ -37,6 +37,19 @@ public class DataGen2 {
 				System.out.print(s+",");
 			System.out.println();
 		}
+	}
+	public static void showBit(Integer v){
+		StringBuffer sb=new StringBuffer();
+		boolean leadingZ=false;
+		for(int i=31;i>=0;i--) {
+			if((v&(1<<i))>0) {
+				sb.append(1);
+				leadingZ=false;
+			}
+			else
+				sb.append(leadingZ ? "" : 0);
+		}
+		System.out.println(sb.toString());
 	}
 	public static void ShowL(List<Integer> spiralOrder) {
 		for(Integer i:spiralOrder){

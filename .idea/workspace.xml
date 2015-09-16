@@ -2,27 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275ab823-949f-4dde-bf9c-4465d89d1df2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/AlienDictionary2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/BinaryTreePaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/HappyNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/MaxProductSubArrayS2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/ParlindromPermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/PathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/PathSum1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/ShortestPalindroms2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/StrStr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/SumRootToLeaf.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/robin4/GraphValidTree.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/AlienDictionary.java" afterPath="$PROJECT_DIR$/src/com/robin4/AlienDictionary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/MaxProductSubArray.java" afterPath="$PROJECT_DIR$/src/com/robin4/MaxProductSubArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/ShortestPalindrom.java" afterPath="$PROJECT_DIR$/src/com/robin4/ShortestPalindrom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/AddOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/BSTIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/BestTimeStock2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/BestTimeStock3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueImpletation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/CountUniValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/DiffWaysAddParentNess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/FactorCombination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/FindPeek.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/GeneratParentNess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/HIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/ISOString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/LongestSubString2dis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/LowestCommonAccensitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/MaxSubArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/MergKSortedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/NextPermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/PaintFence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/PerfectSquel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/Permutation2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/PermutationSeq.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/Read4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/Read42.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/SameTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/SearchInsertPositions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/threadq/SimpleThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/SkyLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/SleepSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/StrSt2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/Sum3Smaller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/threadq/ThreadControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/Vector2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/robin4/newc/WiggleSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java" afterPath="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin3/utility/DataGen2.java" afterPath="$PROJECT_DIR$/src/com/robin3/utility/DataGen2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/SlidingWindow.java" afterPath="$PROJECT_DIR$/src/com/robin4/SlidingWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/tmp" afterPath="$PROJECT_DIR$/out/tmp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/robin4/newc/StrStr.java" afterPath="$PROJECT_DIR$/src/com/robin4/newc/StrStr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/robin/test/TestM1.java" afterPath="$PROJECT_DIR$/test/com/robin/test/TestM1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test.iws" />
@@ -46,105 +65,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HappyNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/HappyNumber.java">
+      <file leaf-file-name="LongestSubString2dis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/LongestSubString2dis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxProductSubArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxProductSubArray.java">
+      <file leaf-file-name="ThreadControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/ThreadControl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxProductSubArrayS2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxProductSubArrayS2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShortestPalindrom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestPalindrom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShortestPalindroms2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestPalindroms2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphValidTree2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseSchedule2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="29" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseSchedule2s2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+              <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
               <folding>
-                <element signature="e#270#287#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2135#2152#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutations2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/Permutations2.java">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16057585">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="887" column="19" selection-start-line="887" selection-start-column="8" selection-end-line="887" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlienDictionary2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/robin4/AlienDictionary2.java">
+      <file leaf-file-name="StrSt2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/StrSt2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/SimpleThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrStr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/StrStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sum3Smaller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/Sum3Smaller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3532669">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1215" column="22" selection-start-line="1215" selection-start-column="22" selection-end-line="1215" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockingQueueTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#1869#1870#0" expanded="true" />
+                <element signature="e#1896#1897#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockingQueueImpletation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueImpletation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,57 +198,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/robin4/BasicCalculator.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/BasicCaculator2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/WordBreak.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/WordBreak2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/WordBreak2S2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/RectangleArea.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/SingleNumber2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/SingleNumber3.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/InsertionSortList.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/SortList.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/BinaryTreeMaxSumPath.java" />
-        <option value="$PROJECT_DIR$/src/com/robin3/BTTravel.java" />
-        <option value="$PROJECT_DIR$/src/cn/jsi/buaa/basic/DataGen.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/ShortestWordDistance.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/ShortestWordDistance2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/CompareVersions.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MaxGap.java" />
-        <option value="$PROJECT_DIR$/test/com/robin/test/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MaxPointOnLine.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/PaintHouse.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/HouseRobber.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/HouseRobber2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/PaintHouse2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/ProductofArrayExceptSelf.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MeetingRooms.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MeetingRooms2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MergIntervals.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/PalindromPartition.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/LongestPalindromString.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/ShortestPalindrom.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/AlienDictionary.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/AlienDictionary2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/MaxProductSubArray.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/GraphValidTree.java" />
-        <option value="$PROJECT_DIR$/out/tmp" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/StrStr.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/ParlindromPermutation.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/newc/BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/PathSum.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/PathSum1.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/SumRootToLeaf.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/SlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/ShortestPalindroms2.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/newc/HappyNumber.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree2.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/MaxProductSubArrayS2.java" />
-        <option value="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java" />
         <option value="$PROJECT_DIR$/src/com/robin4/Permutations2.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/SameTree.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/Permutation2.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/SlidingWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/PermutationSeq.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/SleepSort.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/LowestCommonAccensitor.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/HIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/PaintFence.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/MergKSortedList.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/AddOne.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/FindPeek.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/GeneratParentNess.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BinaryTreeTravel.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BSTIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/Faltten2D.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/Vector2D.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/SkyLine.java" />
+        <option value="$PROJECT_DIR$/src/com/robin3/utility/DataGen2.java" />
+        <option value="$PROJECT_DIR$/test/com/robin/test/TestM1.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/ISOString.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/FactorCombination.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/StrStr.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/StrSt2.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/Read4.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/Read42.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BestTimeStock2.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BestTimeStock3.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/WiggleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/SearchInsertPositions.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/CountUniValue.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/DiffWaysAddParentNess.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/PerfectSquel.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BlockingQueueImpletation.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/LongestSubString2dis.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/threadq/SimpleThread.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/threadq/ThreadControl.java" />
+        <option value="$PROJECT_DIR$/src/com/robin4/newc/Sum3Smaller.java" />
       </list>
     </option>
   </component>
@@ -252,7 +280,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -268,7 +296,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,6 +324,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HashMapTest.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -306,6 +373,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="robin4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robin4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="threadq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robin4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,6 +478,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,23 +497,24 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../stormv2/billing" />
-    <property name="SearchEverywhereHistoryKey" value="object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
+    <property name="SearchEverywhereHistoryKey" value="perfec&#9;FILE&#9;file:///Users/robinmac/workspace/deprecatedspace/javaspace/Test/src/com/robin4/newc/PerfectSquel.java&#10;inser&#9;FILE&#9;file:///Users/robinmac/workspace/deprecatedspace/javaspace/Test/src/com/robin4/SearchInsertPositions.java&#10;object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.robin4.newc" />
+      <recent name="com.robin4.threadq" />
       <recent name="com.robin4" />
+      <recent name="com.robin4.newc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CourseSchedule2s2">
-    <configuration default="false" name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ThreadControl">
+    <configuration default="false" name="PerfectSquel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.robin4.newc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.HappyNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.PerfectSquel" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -406,34 +527,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="GraphValidTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.robin4.newc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.GraphValidTree2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Test" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MaxProductSubArrayS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.robin4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.robin4.MaxProductSubArrayS2" />
+      <option name="MAIN_CLASS_NAME" value="com.robin4.LRUCache" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -446,14 +547,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CourseSchedule2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LongestSubString2dis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.robin4.newc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.CourseSchedule2" />
+      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.LongestSubString2dis" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,14 +567,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CourseSchedule2s2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ThreadControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.robin4.newc.*" />
+          <option name="PATTERN" value="com.robin4.threadq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.robin4.newc.CourseSchedule2s2" />
+      <option name="MAIN_CLASS_NAME" value="com.robin4.threadq.ThreadControl" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.robin4.threadq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.robin4.threadq.SimpleThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -799,19 +920,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HappyNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GraphValidTree2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MaxProductSubArrayS2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CourseSchedule2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CourseSchedule2s2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PerfectSquel" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LRUCache" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LongestSubString2dis" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreadControl" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleThread" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CourseSchedule2s2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CourseSchedule2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxProductSubArrayS2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GraphValidTree2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HappyNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadControl" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleThread" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LongestSubString2dis" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LRUCache" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PerfectSquel" />
       </list>
     </recent_temporary>
   </component>
@@ -849,7 +970,15 @@
       <workItem from="1440748914202" duration="28289000" />
       <workItem from="1441020960217" duration="11035000" />
       <workItem from="1441339417809" duration="19487000" />
-      <workItem from="1441590200123" duration="613000" />
+      <workItem from="1441590200123" duration="2352000" />
+      <workItem from="1441594591934" duration="17213000" />
+      <workItem from="1441678792344" duration="5971000" />
+      <workItem from="1441700051393" duration="12000" />
+      <workItem from="1441700116448" duration="8974000" />
+      <workItem from="1441759752615" duration="2477000" />
+      <workItem from="1441768279852" duration="3870000" />
+      <workItem from="1441870641081" duration="19849000" />
+      <workItem from="1442322455007" duration="5352000" />
     </task>
     <task id="LOCAL-00001" summary="8-31">
       <created>1441021998297</created>
@@ -857,11 +986,17 @@
       <option name="project" value="LOCAL" />
       <updated>1441021998297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9-7">
+      <created>1441590853216</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1441590853216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138362000" />
+    <option name="totallyTimeSpent" value="203819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
@@ -872,30 +1007,30 @@
       <window_info id="BSFConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3254818" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39655173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20299146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23023504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39721626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39721626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32655245" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="22" width="1440" height="874" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25910065" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -913,7 +1048,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8-31" />
-    <option name="LAST_COMMIT_MESSAGE" value="8-31" />
+    <MESSAGE value="9-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="9-7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -966,11 +1102,17 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/robin4/newc/Read4.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="29" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -979,400 +1121,494 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Hashing.class">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="139" column="51" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="57" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestWordDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/SameTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestWordDistance2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="33" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/robin/test/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="216" column="20" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/CompareVersions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="e#942#943#0" expanded="false" />
-            <element signature="e#987#988#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/HouseRobber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="20" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/HouseRobber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/PaintHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="65" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/PaintHouse2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/ProductofArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/NumberofDigitOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MeetingRooms2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="207" column="12" selection-start-line="207" selection-start-column="12" selection-end-line="207" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MergIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1147#1157#0" expanded="true" />
-            <element signature="e#1869#1879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="417" column="13" selection-start-line="417" selection-start-column="13" selection-end-line="417" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/PalindromPartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/LongestPalindromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/WordBreak2S2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/WordBreak2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxPointOnLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="34" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/AlienDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/tmp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2243" column="28" selection-start-line="2243" selection-start-column="28" selection-end-line="2243" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="584" column="30" selection-start-line="584" selection-start-column="23" selection-end-line="584" selection-end-column="30" />
-          <folding />
+          <caret line="23" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="23" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="193" column="19" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MeetingRooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="9" selection-start-line="48" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/ParlindromPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/BinaryTreePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/PathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#219#234#0" expanded="true" />
-            <element signature="e#782#791#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/PathSum1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/SumRootToLeaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/robin4/SlidingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/Permutation2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <caret line="58" column="5" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/PermutationSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/SleepSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/LowestCommonAccensitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/HIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/PaintFence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/MergKSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/AddOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/FindPeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/GeneratParentNess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/jsi/buaa/basic/DataGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/BSTIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="73" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/AlienDictionary2.java">
+    <entry file="file://$PROJECT_DIR$/test/com/robin/test/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestPalindrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/ShortestPalindroms2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/SkyLine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin3/utility/DataGen2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/robin/test/TestM1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/HappyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/ISOString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/GraphValidTree2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxProductSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/MaxProductSubArrayS2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="29" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="29" />
-          <folding />
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CourseSchedule2s2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/FactorCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="0" selection-start-line="12" selection-start-column="4" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="e#270#287#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#241#271#0" expanded="false" />
+            <element signature="e#635#650#0" expanded="false" />
+            <element signature="e#1070#1079#0" expanded="false" />
+            <element signature="e#1341#1350#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/robin4/Permutations2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/Vector2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16057585">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/Read4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/Read42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/BestTimeStock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/BestTimeStock3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/WiggleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/CountUniValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/DiffWaysAddParentNess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#268#0" expanded="true" />
+            <element signature="e#313#322#0" expanded="true" />
+            <element signature="e#396#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/SearchInsertPositions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/PerfectSquel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="15" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+          <folding>
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#4972#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="588" column="33" selection-start-line="588" selection-start-column="33" selection-end-line="588" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#57993#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7839#7840#0" expanded="false" />
+            <element signature="e#7866#7867#0" expanded="false" />
+            <element signature="e#10156#10157#0" expanded="false" />
+            <element signature="e#10212#10213#0" expanded="false" />
+            <element signature="e#23566#23567#0" expanded="false" />
+            <element signature="e#23618#23619#0" expanded="false" />
+            <element signature="e#23907#23908#0" expanded="false" />
+            <element signature="e#23961#23962#0" expanded="false" />
+            <element signature="e#24002#24003#0" expanded="false" />
+            <element signature="e#24064#24065#0" expanded="false" />
+            <element signature="e#25372#25373#0" expanded="false" />
+            <element signature="e#25436#25437#0" expanded="false" />
+            <element signature="e#26196#26197#0" expanded="false" />
+            <element signature="e#26250#26251#0" expanded="false" />
+            <element signature="e#26294#26295#0" expanded="false" />
+            <element signature="e#26348#26349#0" expanded="false" />
+            <element signature="e#26873#26874#0" expanded="false" />
+            <element signature="e#26913#26914#0" expanded="false" />
+            <element signature="e#27353#27354#0" expanded="false" />
+            <element signature="e#27398#27399#0" expanded="false" />
+            <element signature="e#30233#30234#0" expanded="false" />
+            <element signature="e#30282#30283#0" expanded="false" />
+            <element signature="e#33513#33514#0" expanded="false" />
+            <element signature="e#33558#33559#0" expanded="false" />
+            <element signature="e#33812#33813#0" expanded="false" />
+            <element signature="e#33877#33878#0" expanded="false" />
+            <element signature="e#34900#34901#0" expanded="false" />
+            <element signature="e#34940#34941#0" expanded="false" />
+            <element signature="e#35697#35698#0" expanded="false" />
+            <element signature="e#35736#35737#0" expanded="false" />
+            <element signature="e#39300#39301#0" expanded="false" />
+            <element signature="e#39350#39351#0" expanded="false" />
+            <element signature="e#43401#43402#0" expanded="false" />
+            <element signature="e#43440#43441#0" expanded="false" />
+            <element signature="e#45527#45528#0" expanded="false" />
+            <element signature="e#45577#45578#0" expanded="false" />
+            <element signature="e#46649#46650#0" expanded="false" />
+            <element signature="e#46704#46705#0" expanded="false" />
+            <element signature="e#47228#47229#0" expanded="false" />
+            <element signature="e#47283#47284#0" expanded="false" />
+            <element signature="e#47511#47512#0" expanded="false" />
+            <element signature="e#47558#47559#0" expanded="false" />
+            <element signature="e#48214#48215#0" expanded="false" />
+            <element signature="e#48252#48253#0" expanded="false" />
+            <element signature="e#48518#48519#0" expanded="false" />
+            <element signature="e#48564#48565#0" expanded="false" />
+            <element signature="e#48894#48895#0" expanded="false" />
+            <element signature="e#48937#48938#0" expanded="false" />
+            <element signature="e#49191#49192#0" expanded="false" />
+            <element signature="e#49238#49239#0" expanded="false" />
+            <element signature="e#49651#49652#0" expanded="false" />
+            <element signature="e#49698#49699#0" expanded="false" />
+            <element signature="e#50125#50126#0" expanded="false" />
+            <element signature="e#50171#50172#0" expanded="false" />
+            <element signature="e#51976#51977#0" expanded="false" />
+            <element signature="e#52022#52023#0" expanded="false" />
+            <element signature="e#52612#52613#0" expanded="false" />
+            <element signature="e#52656#52657#0" expanded="false" />
+            <element signature="e#53165#53166#0" expanded="false" />
+            <element signature="e#53209#53210#0" expanded="false" />
+            <element signature="e#53810#53811#0" expanded="false" />
+            <element signature="e#53856#53857#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="230" column="21" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.8333333">
+          <caret line="329" column="16" selection-start-line="329" selection-start-column="16" selection-end-line="329" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="289" column="14" selection-start-line="289" selection-start-column="14" selection-end-line="289" selection-end-column="14" />
+          <folding>
+            <element signature="e#9168#9169#0" expanded="true" />
+            <element signature="e#9195#9196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueImpletation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/LongestSubString2dis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/BlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1896#1897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1215" column="22" selection-start-line="1215" selection-start-column="22" selection-end-line="1215" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/SimpleThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/threadq/ThreadControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2135#2152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="887" column="19" selection-start-line="887" selection-start-column="8" selection-end-line="887" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/StrSt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/StrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/robin4/newc/Sum3Smaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3532669">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
